@@ -75,6 +75,10 @@
 }
 .line {
 }
+.table_cell {
+}
+._连接 {
+}
 ._表单提示 {
   color:#999999;
 }
@@ -93,5 +97,8 @@
 .button {
 }
 .ellipse {
+}
+.sticky_1 {
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
